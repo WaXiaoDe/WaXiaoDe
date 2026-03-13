@@ -1,7 +1,7 @@
 - Hi, I’m @WaXiaoDe
 - Welcome to my GitHub website.
-- I am an applied Mathematician working on model order reduction, numerical eigenvalue problems, spectral analysis, numerical linear algebra, etc. 
-- Besides, I am very interested in the theory of fields of 6 elements.
+- I am an applied mathematician working on model order reduction, numerical eigenvalue problems, spectral analysis, numerical linear algebra, etc. 
+- Besides, I am very interested in the theory of fields with 6 elements.
 - Recently, I am also trying to recite the digits of pi backwards.
 
 <!---
